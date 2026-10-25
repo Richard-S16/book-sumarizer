@@ -1,0 +1,7 @@
+{
+  "depth": "standard",
+  "language": "source",
+  "criticalAnalysis": "textual",
+  "formats": ["markdown"],
+  "includeStudyAids": true
+}
